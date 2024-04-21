@@ -219,10 +219,10 @@ def loadtable(hshd_num):
 
 def connecttoDataBase():
     config = {
-    'host': 'cloudprojectsql.mysql.database.azure.com',
-    'user': 'maanasa999',
-    'password': 'Saibaba@162',
-    'database': 'team36'
+    'host': 'my07.mysql.database.azure.com',
+    'user': 'pallavi07',
+    'password': 'Besamp12345$',
+    'database': 'my07'
     }
     try:
         conn = mysql.connector.connect(**config)

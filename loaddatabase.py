@@ -9,10 +9,10 @@ from mysql.connector import errorcode
 
 
 config = {
-    'host': 'my07.mysql.database.azure.com',
+    'host': 'ccproject07.mysql.database.azure.com',
     'user': 'pallavi07',
     'password': 'Besamp12345$',
-    'database': 'my07'
+    'database': 'ccproject07'
     }
 
 try:
